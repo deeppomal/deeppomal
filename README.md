@@ -1,18 +1,17 @@
 <h1 align="center">Hey 👋, I'm Deep Pomal</h1>
 <h3 align="center">Frontend developer from Canada</h3>
 
-<img align="right" alt="Coding gif" width="400" src="https://i.gifer.com/3AyY.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeppomal&label=Profile%20views&color=0e75b6&style=flat" alt="deeppomal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeppomal" alt="deeppomal" /></a> </p>
 
 - 🔭 I’m currently working on [netflix-imdb](https://github.com/deeppomal/netflix-imdb)
 
-- 💬 Ask me about **React, React Native, Tailwind**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **deeppomal98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IRfnXkZyQnZcyfsCwctIzbe-UOOgo5RY/view?usp=sharing](https://drive.google.com/file/d/1IRfnXkZyQnZcyfsCwctIzbe-UOOgo5RY/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://tinyurl.com/yc5vvrww)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
