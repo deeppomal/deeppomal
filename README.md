@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeppomal" alt="deeppomal" /></a> </p>
 
-- 🔭 I’m currently working on [netflix-imdb](https://github.com/deeppomal/netflix-imdb)
+- 🔭 I’m currently working on [Deep Search](https://github.com/deeppomal/deep-search)
 
 - 💬 Ask me about **Frontend Development**
 
