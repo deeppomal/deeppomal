@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeppomal" alt="deeppomal" /></a> </p>
 
-- 🔭 I’m currently working on [Deep Search](https://github.com/deeppomal/deep-search)
+- 🔭 I’m currently working on [PlayBet](https://github.com/deeppomal/playbet_backend)
 
 - 💬 Ask me about **Frontend Development**
 
