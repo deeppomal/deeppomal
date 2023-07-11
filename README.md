@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on [PlayBet](https://github.com/deeppomal/playbet_backend)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **deeppomal98@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://tinyurl.com/yc5vvrww)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
